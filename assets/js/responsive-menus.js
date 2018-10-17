@@ -5,7 +5,7 @@
  *
  * @author ChurchPress
  * @link https://github.com/copyblogger/responsive-menus/
- * @license GPL-2.0+
+ * @license GPL-3.0+
  * @package GenesisSample
  */
 

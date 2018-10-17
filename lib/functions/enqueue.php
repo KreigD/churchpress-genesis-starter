@@ -5,7 +5,7 @@
  * @package    ChurchPress Genesis Starter
  * @subpackage Genesis
  * @copyright  Copyright (c) 2018, ChurchPress
- * @license    GPL-2.0+
+ * @license    GPL-3.0+
  * @since      1.0.0
  */
 

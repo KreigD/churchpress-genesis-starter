@@ -3,7 +3,7 @@
  *
  * @package GenesisSample\JS
  * @author  ChurchPress
- * @license GPL-2.0+
+ * @license GPL-3.0+
  */
 
 var genesisSample = ( function( $ ) {
