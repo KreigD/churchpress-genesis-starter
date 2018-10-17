@@ -3,7 +3,7 @@ A simple, sassified Genesis starter theme based off of [Genesis Sample 2.6.0](ht
 
 This is the starter theme used to kick off development on many [ChurchPress](https://churchpress.co/) themes. It includes a few custom controls for the Customizer, should you want to implement them:
 
-- Post Dropdown, creates a dropdown selection of all your posts.
+- Post Dropdown creates a dropdown selection of all your posts.
 - Menu Dropdown creates a dropdown of your menus.
 - TinyMCE adds a TinyMCE editor into the Customizer.
 
