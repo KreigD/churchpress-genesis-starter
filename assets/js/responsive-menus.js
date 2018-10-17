@@ -3,9 +3,9 @@
  *
  * @version 1.1.3
  *
- * @author ChurchPress
+ * @author StudioPress
  * @link https://github.com/copyblogger/responsive-menus/
- * @license GPL-3.0+
+ * @license GPL-2.0+
  * @package GenesisSample
  */
 

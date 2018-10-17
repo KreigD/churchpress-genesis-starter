@@ -2,8 +2,8 @@
  * ChurchPress Genesis Starter entry point.
  *
  * @package GenesisSample\JS
- * @author  ChurchPress
- * @license GPL-3.0+
+ * @author  StudioPress
+ * @license GPL-2.0+
  */
 
 var genesisSample = ( function( $ ) {
